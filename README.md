@@ -1,5 +1,8 @@
 # Cast library
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/Eclalang/cast)](https://goreportcard.com/report/github.com/Eclalang/cast)
+[![codecov](https://codecov.io/gh/Eclalang/cast/graph/badge.svg?token=0ROO3NXG4P)](https://codecov.io/gh/Eclalang/cast)
+
 ## Candidate functions :
 
 | Func Name  |                  Prototype                   |       Description        |                             Comments                              |
